@@ -1,0 +1,25 @@
+
+
+웹 프로그래밍.
+
+WWW. (world wide web)
+
+웹 ? =>  브라우저 와 서버와의 통신(communication, 대화) 
+
+    => http 를 활용하여 
+    => 브라우저와 서버의 대화.
+    https://www.google.com/
+
+    http 통신 (hyper text transform protocol)
+    http-s security
+
+    브라우저 창 => 주소를 입력했을때
+           
+                  요청
+    브라우저  =======-=======>  네이버 서버
+           <================
+                  응답
+  (front-end)                 (back-end)
+  (client)                    (sever-side)
+
+    모바일 app             

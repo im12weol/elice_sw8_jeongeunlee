@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+  </head>
+  <body>
+    <h1>HTML FORM</h1>
+    <!-- http 통신을 통해서 정보를 전달하는데 있습니다. 서버한테 -->
+    <form>
+      <!-- <form action=""> -->
+      <!-- 이것은 네이버에 가입하기 위한 정보입니다 -->
+      <!-- 가입하기 위한 정보는 naver.com/join 으로 보내줘  -->
+      <!-- 이것은 블로그에 글을 포스팅 하기 위한 정보입니다 -->
+      <!-- action 은 서버의 경로  -->
+      <label for="username">이름</label>
+      <input type="text" name="username" />
+      <br />
+      <label for="email">이메일</label>
+      <input type="email" name="email" />
+      <br /><br />
+      <label for="password">비밀번호</label>
+      <input type="password" name="password" />
+      <br /><br />
+      <label for="tel">전화번호</label>
+      <input type="number" name="tel" />
+      <br /><br />
+      <label for="picture">증명사진</label>
+      <input type="file" name="picture" />
+    </form>
+
+    <label for="">나이를 입력해주세요</label>
+    <select name="age">
+      <option value="0">10~20</option>
+      <option value="1">30~40</option>
+      <option value="2">40~50</option>
+    </select>
+
+    <img src="./img/seo.png" alt="" />
+  </body>
+</html>

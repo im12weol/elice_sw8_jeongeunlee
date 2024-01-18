@@ -1,0 +1,30 @@
+h1 {
+  color: orange;
+  background-color: slategray;
+  text-align: center;
+}
+
+/* css 에는 적용되는 우선 순위가 있습니다 */
+/* in-line css >id > class > tag */
+
+/* #cid {
+  color: blue;
+  background-color: blueviolet;
+} */
+
+.content {
+  color: black;
+  background-color: transparent;
+}
+
+p {
+  color: blue;
+}
+
+ul {
+  border-width: 4px;
+  border-style: solid;
+  border-color: crimson;
+  border-bottom: 4px dotted black;
+  border-left: 8px dashed pink;
+}

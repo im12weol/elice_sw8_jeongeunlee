@@ -1,0 +1,14 @@
+
+<!-- SAAS Software as a Service  -->
+
+Software 구독형 서비스
+
+PC 설치하고 => 설치된 S/W 실행 => 우리가 사용.
+
+설치없이 클라우드 환경에서 사용할 수 있는 S/W
+
+Notion, Google docs, google spreadsheet
+
+쿠팡, 배민, 무신사, 토스 
+
+B2B (기업 대 기업 서비스)

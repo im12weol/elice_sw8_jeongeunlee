@@ -1,0 +1,53 @@
+
+
+
+자바스크립트 실행원리.
+
+==> 생성자, closure, 콜백
+
+
+compile 언어, >>>  script 성 언어
+
+컴퓨터 기계어를 활용해 동작하는 머신.
+
+태생의 특징, 태생의 한계
+
+특징...... => closure, callback, ==> promise
+
+
+
+
+
+
+코드를 => 컴퓨터가 이해할 수 있는 기계어로 번역해주는 행동 => 컴파일. 
+
+
+컴파일 => (컴파일러, compiler) => 우리의 코드의 에러나, 잘못된 것들을 확인할 수 있게 해준다
+
+Golang, Rust (Webassembly) // 시뮬레이션, 고연산이 필요한 어떠한 프로그램들... 
+
+
+브라우저 => javascript 코드를 확인하는 행동 => 결과를 보는 행동 (우리의 작업의 결과를 보는행동)
+
+
+
+webpack 
+
+
+callbackhell => promise
+
+https://www.naver.com/
+https://sports.news.naver.com/basketball/index
+
+
+CRUD        Http 함수
+
+Create  ==> POST
+
+Read   ==>  GET 
+
+=============================================
+
+Update  ==> PUT(보안적 결함이 매우큼), PATCH
+
+Delete ==> DELETE
